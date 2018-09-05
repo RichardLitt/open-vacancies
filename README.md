@@ -1,6 +1,6 @@
 # Open vacancies
 
-## Current open positions:
+## We're currently looking for
 
 - [Distributed Systems Engineer](/roles/distributed-systems-engineer.md)
 - [Database Engineer](/roles/database-engineer.md)
