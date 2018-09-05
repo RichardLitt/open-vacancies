@@ -8,7 +8,7 @@
 
 ## Who we are and what we do
 
-Haja Networks builds foundational distributed and decentralized technologies for the future Internet.
+[Haja Networks](https://haja.io/) builds foundational distributed and decentralized technologies for the future Internet.
 
 With open-source, transparency and diversity as our core values, we're currently focused on:
 
@@ -21,6 +21,8 @@ Everything we build is open source and made available on GitHub, and we work as 
 We're a small and focused distributed team working around the globe. We don't have an office and our team members are currently located in Oulu, Berlin, Barcelona, Dubai and Vermont. Communication is an important factor in distributed work and we stay in sync using GitHub, IRC, Slack, email and Zoom.
 
 Haja Networks was founded in early 2018 in Finland and is funded by top investors in the decentralization space.
+
+Read more about us at [haja.io](https://haja.io/).
 
 ## What we offer
 
