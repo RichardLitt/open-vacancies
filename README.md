@@ -40,3 +40,7 @@ Read more about us at [haja.io](https://haja.io/).
 ## How to apply
 
 Check the [instructions how to apply](how-to-apply.md) if you became interested!
+
+## License
+
+[CC-BY-SA Copyright (c) 2018 Haja Networks Oy]
