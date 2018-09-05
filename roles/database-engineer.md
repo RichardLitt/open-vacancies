@@ -18,7 +18,7 @@ We are looking for a skilled Database Engineer to work on our database protocols
 **Nice to have**
 
 - Engineering experience with distributed databases, systems and networks
-- Experience with IPFS and [OrbitDB](https://github.com/orbitdb/orbit-db) or other peer-to-peer technologies
+- Experience with [IPFS](https://github.com/ipfs) and [OrbitDB](https://github.com/orbitdb/orbit-db) or other peer-to-peer technologies
 - Experience and understanding of smart contracts, crypto-currencies, and blockchains
 - Experience with JavaScript and Node.js
 - Experience in, or a desire to learn functional programming
